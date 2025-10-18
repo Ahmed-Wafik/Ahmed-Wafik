@@ -18,3 +18,9 @@ I'm **Ahmed Wafik!**. Welcome to my corner of GitHub! I'm a passionate and exper
 - **Tools & Platforms:** Firebase, REST APIs, Git, CI/CD, Jira, Figma
 - **Other:** Unit & Widget Testing, Localization, Responsive Design
 
+### 📱 Highlighted Projects
+
+- [Dar Alsabaek App](https://daralsabaek.com/) An App that allows the customer to buy or sell physical gold online from the company’s website or mobile app.
+
+- [MASAR](https://tafeel.com/newred/en/) Masar system is a product for handling digital transformation in KSA.
+- [MASAR-Lite](https://tafeel.com/newred/en/) Maasr lite is light version of MASAR which make for specific clients.
