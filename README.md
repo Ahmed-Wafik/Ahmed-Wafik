@@ -2,6 +2,28 @@
 
 <h1 align="center">Hi There 👋 I'm Ahmed Wafik 👨‍💻</h1>
 
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/ahmed-wafik" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/>
+  </a>
+  <img width="12"/>
+  <a href="https://leetcode.com/u/AhmedWafik" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=black&logoColor=&labelColor=&style=for-the-badge"/>
+  </a>
+  <img width="12"/>
+
+  <a href="mailto:a.wafik504@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=red&style=for-the-badge"/>
+  </a>
+  <img width="12"/>
+  <a href="https://stackoverflow.com/users/6087272/ahmed-wafik" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=stackoverflow&logo=stackoverflow&label=&color=orange&logoColor=white&labelColor=orange&style=for-the-badge" height="25"/>
+  </a>
+  
+</div>
+
 ### 🚀 About Me
 
 - **6+ years of experience** in **Flutter,** **Dart,** and **mobile apps development**.
@@ -36,7 +58,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-wafik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-wafik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-wafik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
@@ -57,4 +79,11 @@ MASAR system is one of the most leading SAAS project that handles digital transf
  <p>
   <a href="https://play.google.com/store/apps/details?id=com.tafeel.full.masar5" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
   <a href="https://apps.apple.com/eg/app/masar-5/id1614620421" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+<p>
+
+<h4>MASAR Lite</h4>
+MASAR Lite is a light version of MASAR which made for spcific users.
+ <p>
+  <a href="http://play.google.com/store/apps/details?id=com.tafeel.light.masar4" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+  <a href="https://apps.apple.com/eg/app/masar-lite/id1480150899" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white"/></a>
 <p>
