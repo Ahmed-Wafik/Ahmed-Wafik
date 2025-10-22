@@ -56,19 +56,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-wafik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-wafik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
-</div>
+<br>
 
-###
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ahmed-wafik&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-wafik&theme=transparent&count_private=true&border_radius=10&locale=en"/>
+
+</div>
 
 ### 📱 Highlighted Projects
 
 <h4>Dar Alsabaek</h4>
 First gold company in Kuwait that allows the customer to buy or sell physical gold online from the company’s website or mobile app.
-Dar Al-Sabaek’s application has been officially classified in the Kuwait National Library and the protection of intellectual property rights as the first website specialized in the field of gold.
- 
+Dar Al-Sabaek’s application has been officially classified in the Kuwait National Library and the protection of intellectual property rights as the first website specialized in the field of gold. 
  <p>
   <a href="https://play.google.com/store/apps/details?id=com.ds.daralsabaek" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
   <a href="https://apps.apple.com/eg/app/%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D8%A6%D9%83/id1425024288" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white"/></a>
@@ -86,4 +86,11 @@ MASAR Lite is a light version of MASAR which made for spcific users.
  <p>
   <a href="http://play.google.com/store/apps/details?id=com.tafeel.light.masar4" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
   <a href="https://apps.apple.com/eg/app/masar-lite/id1480150899" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+<p>
+
+<h4>ID Reader</h4>
+An app for scanning a national ID card and extract the data.
+ <p>
+  <a href="https://play.google.com/store/apps/details?id=com.deepiris.ai.com.prod" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+  <a href="https://apps.apple.com/eg/app/id-reader-erp/id6443644913" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white"/></a>
 <p>
